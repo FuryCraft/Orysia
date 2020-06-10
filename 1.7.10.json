@@ -11,7 +11,7 @@
     "client": {
       "sha1": "e80d9b3bf5085002218d4be59e668bac718abbc6",
       "size": 5256245,
-      "url": "https://github.com/FuryCraft/Orysia/minecraft.jar"
+      "url": "https://github.com/FuryCraft/Orysia/raw/master/client.jar"
     },
     "server": {
       "sha1": "952438ac4e01b4d115c5fc38f891710c4941df29",
